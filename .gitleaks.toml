@@ -1,0 +1,6 @@
+title = "Practica DevSecOps"
+
+[[rules]]
+description = "AWS Access Key"
+id = "aws-access-key"
+regex = '''AKIA[0-9A-Z]{16}'''
